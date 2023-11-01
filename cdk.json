@@ -1,8 +1,8 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/my-app-cdk.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/myapp-1-cross-stack-references.ts",
   "watch": {
     "include": [
-      "**"
+      "bin/**"
     ],
     "exclude": [
       "README.md",
