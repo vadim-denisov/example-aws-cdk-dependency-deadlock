@@ -1,4 +1,4 @@
-# Resolving cross-stack references
+# Resolving Dependency Deadlock
 
 ## Prerequisites
 - Configured AWS account credentials ([AWS CLI Configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html))
